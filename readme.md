@@ -7,13 +7,13 @@
 
 Methods in balacedTernarySearchTree class:<br/>
 a)push(data) <br/>
-push element in tree if it is float in appropriate middleList else new node attached as child.
+push element in tree if it is float in appropriate middleList else new node attached as child.<br/>
 b)search(search_value)<br/>
-find search value
+find search value<br/>
 c)remove(remove_value)<br/>
-remove remove_value
+remove remove_value<br/>
 d)print()<br/>
-prints tree in Left - MiddleList - Nodedata - Right of every node basically depth first traversal
+prints tree in Left - MiddleList - Nodedata - Right of every node basically depth first traversal<br/>
 e)printLevelOrder()<br/>
 prints level order traversal of tree<br/>
 
