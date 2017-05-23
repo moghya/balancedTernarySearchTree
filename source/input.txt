@@ -1,0 +1,35 @@
+push 5
+push 9
+push 2
+push 1
+push 4.01
+push 3.2
+push 1.3
+push 4.6
+push 31
+push 11
+push 10
+push 19
+push 9
+push 7.2
+push 7
+search 7
+remove 7
+search 7
+push 199
+remove 1000
+push 40.1
+push 62.2
+push 18.9
+push 40.3
+push 31
+remove 31
+push 1.95
+push 4.922
+push 3110.01
+push 100.3
+push 4.036
+remove 4
+push 3.95236
+print
+printLevelOrder
