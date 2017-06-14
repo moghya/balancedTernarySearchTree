@@ -1,4 +1,4 @@
-##Balanced Ternary Search Tree is implemented with following conditions:
+# Balanced Ternary Search Tree is implemented with following conditions:
 1. Left child should be smaller than right child
 2. Left / Right child should contain only integer
 3. Middle child should contain a sorted list of floats greater than left child and less than right child
